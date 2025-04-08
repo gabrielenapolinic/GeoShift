@@ -56,6 +56,3 @@ print("Output CRS verified:", output_gdf.crs)
 print("First 3 coordinates example:")
 print(output_gdf.head(3).geometry.to_wkt())
 print("Reprojection completed successfully!")
-
-
-# In[ ]:
