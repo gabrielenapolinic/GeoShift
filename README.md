@@ -1,6 +1,4 @@
 # GeoShift
-A Python-based geospatial troubleshooting tool that ensures reliable coordinate reference system (CRS) conversions when traditional GIS software (QGIS, ArcGIS) fails.
-
 ## 🔍 Problem Statement
 When working with geospatial data in QGIS/ArcGIS/ArcMap, you might encounter:
 - Silent CRS assignment failures
